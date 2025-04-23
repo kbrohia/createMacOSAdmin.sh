@@ -1,5 +1,3 @@
-#!/bin/bash
-
 USERNAME="IT Admin"
 FULLNAME="IT Admin"
 PASSWORD="test!"
